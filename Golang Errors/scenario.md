@@ -3,7 +3,7 @@ description: Learn the basics of Golang errors.
 time: 10 minutes
 state: draft
 authors:
-  - shafaqarshad
+  - shafaq
 steps:
   - step1.md
   - step2.md
