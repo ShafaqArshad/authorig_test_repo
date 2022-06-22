@@ -1,4 +1,4 @@
-title: Go Error Types New
+title: Go Error Types New 2
 description: Learn the basics of Golang errors.
 time: 10 minutes
 state: draft
